@@ -13,6 +13,10 @@ body {
     display: flex;
     justify-content: center;
 }
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
 .fact-box {
     background-color: #f8f9fa;
     border-left: 4px solid #45a049;
