@@ -13,6 +13,13 @@ body {
     display: flex;
     justify-content: center;
 }
+.fact-box {
+    background-color: #f8f9fa;
+    border-left: 4px solid #45a049;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
 .carousel-item {
     height: 100vh;
     transition: transform 0.5s ease-in-out;
