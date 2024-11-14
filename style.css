@@ -11,8 +11,8 @@ a {
     text-decoration: none;
     color: #ffffff;
 }
-a:active {
-    background-color: #ffffff;
+a:hover {
+    color: #ffffff;
 }
 .horizontal {
     display: flex;
