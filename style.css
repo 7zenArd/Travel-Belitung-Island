@@ -12,7 +12,7 @@ a {
     color: #ffffff;
 }
 a:active {
-    color: #ffffff;
+    background-color: #ffffff;
 }
 .horizontal {
     display: flex;
