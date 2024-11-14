@@ -8,14 +8,13 @@ body {
     padding: 0;
     background-color: #f4f4f9;
 }
-
-.horizontal {
-    display: flex;
-    justify-content: center;
-}
 a {
     text-decoration: none;
     color: #ffffff;
+}
+.horizontal {
+    display: flex;
+    justify-content: center;
 }
 .fact-box {
     background-color: #f8f9fa;
@@ -47,7 +46,6 @@ a {
     background-color: #004d40;
     transform: scale(1.05);
 }
-
 .contact-section {
     max-width: 800px;
     margin: 50px auto;
